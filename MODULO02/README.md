@@ -21,7 +21,7 @@
 - Métodos de Arrays básicos.
 
 
- ---------   O QUE EU QUERO APRENDER SOBRE OS ASSUNTOS QUE SERÃO ABORDADOS NESSE MÓDULO? ---------
+ ---------   O QUE EU QUERO APRENDER SOBRE OS ASSUNTOS QUE SERÃO ABORDADOS NESSE MÓDULO? ----------
 
 
 
