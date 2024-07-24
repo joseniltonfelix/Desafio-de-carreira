@@ -15,7 +15,7 @@
 - Arrays e loops
 - Objetos
 
---------     O QUE EU APRENDI SOBRE OS CONTEÚDOS QUE SERÃO ABORDADOS NESSE MÓDULO? --------
+--------     O QUE EU APRENDI SOBRE OS CONTEÚDOS QUE SERÃO ABORDADOS NESSE MÓDULO? ---------
 
 
 - Como a internet funciona , EX: sites, domínios, url.
