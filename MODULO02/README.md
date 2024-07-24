@@ -15,13 +15,13 @@
 - Métodos de Arrays.
  
 
-    O QUE EU JÁ SEI SOBRE OS CONTEÚDOS QUE SERÃO ABORDADOS NESSE MÓDULO?
+ ---------   O QUE EU JÁ SEI SOBRE OS CONTEÚDOS QUE SERÃO ABORDADOS NESSE MÓDULO? ---------
  
  
 - Métodos de Arrays básicos.
 
 
-    O QUE EU QUERO APRENDER SOBRE OS ASSUNTOS QUE SERÃO ABORDADOS NESSE MÓDULO?
+ ---------   O QUE EU QUERO APRENDER SOBRE OS ASSUNTOS QUE SERÃO ABORDADOS NESSE MÓDULO? ---------
 - Me aprofundar no método de arrays, strings, loops e tipagem.
 - Aprender como deixar meu LinkedIn e meu Github, mais atraente para possíveis recrutadores.
 - Me aprofundar mais em Javacript e Typescript.
