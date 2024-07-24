@@ -22,9 +22,15 @@
 
 
  ---------   O QUE EU QUERO APRENDER SOBRE OS ASSUNTOS QUE SERÃO ABORDADOS NESSE MÓDULO? ---------
+
+
+
 - Me aprofundar no método de arrays, strings, loops e tipagem.
 - Aprender como deixar meu LinkedIn e meu Github, mais atraente para possíveis recrutadores.
 - Me aprofundar mais em Javacript e Typescript.
 - Aprender mais sobre Git.
 - Me aprofundar em lógica de programação.
 
+
+
+--------     O QUE EU APRENDI SOBRE OS CONTEÚDOS QUE SERÃO ABORDADOS NESSE MÓDULO? --------
