@@ -11,8 +11,8 @@
 - Funções.
 - Tipos de dados.
 - Tipos Utilitários.
-- Tipos Utilitários.
 - Métodos de Arrays.
+- Metodos de strings
  
 
  ---------   O QUE EU JÁ SEI SOBRE OS CONTEÚDOS QUE SERÃO ABORDADOS NESSE MÓDULO? ---------
@@ -33,4 +33,10 @@
 
 
 
---------     O QUE EU APRENDI SOBRE OS CONTEÚDOS QUE SERÃO ABORDADOS NESSE MÓDULO? --------
+--------     O QUE EU APRENDI NESSE MÓDULO? --------
+
+- Funções 
+- Um pouco mais de tipagem de dados
+- Tipos utilitários
+- Metodos de arrays
+- Metodos de strings
